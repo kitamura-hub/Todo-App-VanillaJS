@@ -16,6 +16,7 @@ input {
 button {
   border-radius: 16px;
   border: none;
+  outline: none;
   padding: 4px 16px;
 }
 button:hover {
